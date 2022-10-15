@@ -13,6 +13,7 @@
     "preset": "react-native"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^1.8.6",
     "@types/react-test-renderer": "^18.0.0",
     "expo": "~46.0.16",
     "expo-status-bar": "~1.4.0",
@@ -20,6 +21,7 @@
     "react-dom": "18.0.0",
     "react-native": "0.69.6",
     "react-native-web": "~0.18.7",
+    "react-redux": "^8.0.4",
     "react-test-renderer": "^18.2.0"
   },
   "devDependencies": {
